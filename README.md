@@ -46,7 +46,7 @@ A comprehensive React application featuring a responsive design, shopping cart f
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/hrushikesh-kapse]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hrushikesh-kapse/))
+- LinkedIn: [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hrushikesh-kapse]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hrushikesh-kapse/))
 - Email: [hrushikeshskapse@gmail.com](hrushikeshskapse@gmail.com)
 
 Feel free to reach out if you're interested in collaborating, discussing front-end development, or exploring new project ideas.
