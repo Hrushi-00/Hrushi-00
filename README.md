@@ -3,16 +3,28 @@
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 
-I'm a dedicated Front-End Developer with a focus on crafting high-quality, responsive, and accessible web applications. My approach is user-centered, ensuring that each interface is both visually appealing and highly functional.
+I'm a dedicated Front-End Developer focused on creating high-quality, responsive, and accessible web applications. I approach each project with a user-centered perspective, ensuring that interfaces are both visually appealing and functional.
 
 ---
 
 ## 🌐 Skills
 
-- **Core Technologies**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks/Libraries**: React, Redux, Tailwind CSS, Bootstrap, Sass
-- **Tools & Platforms**: Git, Webpack, Figma, VS Code, Chrome DevTools
-- **Additional Skills**: Responsive Design, Cross-Browser Compatibility, UX/UI Design, Performance Optimization
+### Languages & Frameworks
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -44,4 +56,4 @@ Feel free to reach out if you're interested in collaborating, discussing front-e
 
 ---
 
-> **Note**: Remember to replace placeholders such as `yourusername` and `yourprofile` with your actual details.
+> **Note**: Replace placeholders such as `yourusername` and `yourprofile` with your actual details.
