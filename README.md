@@ -1,7 +1,7 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Hrushikesh Kapse] 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub followers]([https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername](https://github.com/Hrushi-00))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hrushikesh-kapse/))
 
 I'm a dedicated Front-End Developer focused on creating high-quality, responsive, and accessible web applications. I approach each project with a user-centered perspective, ensuring that interfaces are both visually appealing and functional.
 
@@ -29,15 +29,12 @@ I'm a dedicated Front-End Developer focused on creating high-quality, responsive
 ---
 
 ## 📁 Featured Projects
-
-### [Modern E-commerce Platform](https://github.com/yourusername/E-commerce)
-A comprehensive React application featuring a responsive design, shopping cart functionality, and user authentication.
-
-### [Portfolio Site](https://github.com/yourusername/Portfolio)
+### [Portfolio Site]([https://github.com/yourusername/Portfolio](https://portfolioo-flame.vercel.app/))
 An interactive portfolio showcasing my skills and projects, designed with clean, modern UI and animations to enhance user engagement.
 
-### [Dashboard with Data Visualizations](https://github.com/yourusername/Dashboard)
-Built with React and Chart.js, this dashboard provides interactive data visualizations, optimized for usability and performance.
+### [Modern E-commerce Platform]([https://github.com/yourusername/E-commerce](https://ecommerce-eight-liart-90.vercel.app/))
+A comprehensive React application featuring a responsive design, shopping cart functionality, and user authentication.
+
 
 ---
 
@@ -49,8 +46,8 @@ Built with React and Chart.js, this dashboard provides interactive data visualiz
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/hrushikesh-kapse]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hrushikesh-kapse/))
+- Email: [hrushikeshskapse@gmail.com](hrushikeshskapse@gmail.com)
 
 Feel free to reach out if you're interested in collaborating, discussing front-end development, or exploring new project ideas.
 
